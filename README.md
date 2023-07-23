@@ -34,7 +34,8 @@
 * 상품 등록
   * [productregist](https://github.com/leebib1/SemiProject_GDJ64/tree/main/semi-hifive/src/main/java/com/semi/productregist)
 ### 👨‍💻허성현
-#### UI 담당 : header, footer, 이벤트 베너 이미지 당 : 상품 테이블 중심 설계 및 구축, 관리
+#### UI 담당 : header, footer, 이벤트 베너 이미지 담당
+#### DB 설계 담당 : 상품 테이블 중심 설계 및 구축, 관리
 * 상품 상세 페이지
   * [productpage](https://github.com/leebib1/SemiProject_GDJ64/tree/main/semi-hifive/src/main/java/com/semi/productpage)
 * 상품 검색
